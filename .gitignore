@@ -1,0 +1,30 @@
+# Only reviewed experiment files are eligible for upload.
+*
+!/.gitignore
+!/README.md
+!/使用说明.txt
+!/实验1/
+!/实验2/
+!/实验3/
+!/实验4/
+!/实验1/fp_add.asm
+!/实验1/main.i
+!/实验1/main.s
+!/实验1/main.o.txt
+!/实验1/main.txt
+!/实验2/fpu.v
+!/实验3/ICache.v
+!/实验3/lfsr.v
+!/实验4/axi_master.v
+
+# Keep reports, submission archives, and binaries local.
+*.doc
+*.docx
+*.docm
+*.pdf
+*.zip
+*.rar
+*.7z
+*.jar
+*.o
+~$*

@@ -1,0 +1,5 @@
+1. 由于是java程序包，需要先安装java sdk，并配置环境变量。java 环境变量配置步骤见：https://www.runoob.com/java/java-environment-setup.html
+
+2. java程序包执行方式见：https://blog.csdn.net/baidu_37107022/article/details/78196766
+
+3. RARS 使用方式见：https://blog.csdn.net/weixin_44126785/article/details/120604371
